@@ -1,5 +1,7 @@
 # Pixiv Refresh Token 获取工具
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/znq19/pixiv-token-tool)
+
 一个 Windows 友好的独立小工具，用**有头浏览器**登录 Pixiv 后自动获取 `refresh_token`，供 `pixivpy` 或 KiraAI 的 Pixiv 图片搜索插件使用。
 
 ## 使用方法
